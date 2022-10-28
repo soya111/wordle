@@ -1,0 +1,5 @@
+handler
+handler.zip
+.terraform
+.env
+secret.tfvars
